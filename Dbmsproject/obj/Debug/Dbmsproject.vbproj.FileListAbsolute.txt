@@ -1,0 +1,46 @@
+C:\Users\DELL\AppData\Local\Temporary Projects\Dbmsproject\bin\Debug\Dbmsproject.exe.config
+C:\Users\DELL\AppData\Local\Temporary Projects\Dbmsproject\bin\Debug\Dbmsproject.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\Dbmsproject\bin\Debug\Dbmsproject.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\Dbmsproject\bin\Debug\Dbmsproject.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\Dbmsproject\obj\Debug\Dbmsproject.alogin.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\Dbmsproject\obj\Debug\Dbmsproject.amain.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\Dbmsproject\obj\Debug\Dbmsproject.Form1.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\Dbmsproject\obj\Debug\Dbmsproject.Resources.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\Dbmsproject\obj\Debug\Dbmsproject.pmlogin.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\Dbmsproject\obj\Debug\Dbmsproject.vbproj.GenerateResource.Cache
+C:\Users\DELL\AppData\Local\Temporary Projects\Dbmsproject\obj\Debug\Dbmsproject.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\Dbmsproject\obj\Debug\Dbmsproject.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\Dbmsproject\obj\Debug\Dbmsproject.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\bin\Debug\Dbmsproject.exe.config
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.exe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.xml
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\bin\Debug\Dbmsproject.exe
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\bin\Debug\Dbmsproject.pdb
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\bin\Debug\Dbmsproject.xml
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\bin\Debug\mysql.data.dll
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.vbprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.alogin.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.amain.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.pmlogin.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.vbproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.SplashScreen1.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.aports.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.aships.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.apemp.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.asemp.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.aroute.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.p1main.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.p2main.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.p3main.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.p1emp.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.p1pack.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.p1ship.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.p2emp.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.p2pack.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.p2ship.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.p3emp.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.p3pack.resources
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\Dbmsproject\Dbmsproject\obj\Debug\Dbmsproject.p3ship.resources
